@@ -30,3 +30,9 @@ INSERT INTO persones (nom, cognoms, data_naixement, nivell_motivacio, sou, tipus
 VALUES ('jOaN', 'viDal', '1985-04-12', 7, 25000, 'jugador');
 
 SELECT nom, cognoms FROM persones;
+
+-- 5 
+select * from jugadors_equips;
+
+INSERT INTO jugadors_equips (jugadors_id, equips_id, data_baixa)
+VALUES (26, 1, NULL);
