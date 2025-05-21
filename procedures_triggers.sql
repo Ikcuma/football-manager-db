@@ -222,3 +222,6 @@ BEGIN
 END //
 
 DELIMITER ;
+
+-- Hola mundo
+-- Hola mundo
