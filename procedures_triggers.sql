@@ -223,10 +223,6 @@ END //
 
 DELIMITER ;
 
-<<<<<<< Updated upstream
--- Hola mundo
--- Hola mundo
-=======
 -- 8
 DELIMITER //
 
@@ -496,4 +492,3 @@ BEGIN
 END //
 
 DELIMITER ;
->>>>>>> Stashed changes
